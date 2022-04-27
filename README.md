@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AussieDoggo
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning how to make a discord bot.
-- 💞️ I’m looking to collaborate on nothing.
+- 🌱 I’m currently learning how to create websites using HTML & TailwindCSS
+- 💞️ Unavailible for Collaboration at this time.
 - 📫 Reach me through discord. AussieDoggo#9377
 
 <!---
